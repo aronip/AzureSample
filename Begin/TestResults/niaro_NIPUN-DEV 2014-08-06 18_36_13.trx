@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d719936d-f25e-4bd8-9c65-aeecd4e8a4c9" name="niaro@NIPUN-DEV 2014-08-06 18:36:13" runUser="FAREAST\niaro" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c7192d5d-7afa-4901-bb50-e2fb6ac69b6d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="niaro_NIPUN-DEV 2014-08-06 18_36_13">
+      <DeploymentItem filename="C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\bin\Debug\GuestBook_Data.dll" />
+      <DeploymentItem filename="C:\Program Files\Microsoft SDKs\Windows Azure\.NET SDK\v2.1\ref\Microsoft.WindowsAzure.StorageClient.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-08-06T18:36:13.0782156+05:30" queuing="2014-08-06T18:36:13.9198775+05:30" start="2014-08-06T18:36:13.9659071+05:30" finish="2014-08-06T18:36:25.4939098+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ProcessQueue" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="942b0041-6614-c198-67a7-6ac06411c6bb">
+      <Execution id="52e2d525-a59b-41b4-8f5b-a1cded3e6f9a" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessQueue" />
+    </UnitTest>
+    <UnitTest name="ValidateBlobStorageInit" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="21ef95f6-5cba-3fe4-8df8-8981def7d812">
+      <Execution id="cf7ab3d2-8017-4a50-8e29-415d372cd0de" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateBlobStorageInit" />
+    </UnitTest>
+    <UnitTest name="ValidateTables" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="bc06af3c-625d-48eb-ea80-1f8f3c32a40b">
+      <Execution id="b0404085-f734-41cc-a1dd-a7b137770ad0" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateTables" />
+    </UnitTest>
+    <UnitTest name="ValidateUploadBlob" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="873cfd3d-4d20-5ade-17b0-8b4a8e18b400">
+      <Execution id="be99091d-fd0c-450d-989b-7afeb22cd8ff" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateUploadBlob" />
+    </UnitTest>
+    <UnitTest name="ValidateQueue2" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="68178ba7-0b27-2d8e-4b42-334a8d38aafa">
+      <Execution id="70545a5c-bc35-4ea3-a9b5-363394dfc7bc" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateQueue2" />
+    </UnitTest>
+    <UnitTest name="StartDevFabric" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="90cff3a7-c376-8901-53c4-3f5300488f56">
+      <Execution id="39e083ad-a091-4dcf-82d1-ee5dfb5f847d" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StartDevFabric" />
+    </UnitTest>
+    <UnitTest name="StopDevFabric" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="29606469-6650-eed0-1b2e-7bd5974d646d">
+      <Execution id="1aa88fc1-7b5c-486f-ba45-f713cd425a04" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StopDevFabric" />
+    </UnitTest>
+    <UnitTest name="FabricIsOn" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="0a990214-4c32-c590-120c-3983084b746a">
+      <Execution id="fc079e7b-439e-4204-9b27-292b7d60abfe" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FabricIsOn" />
+    </UnitTest>
+    <UnitTest name="ValidateQueue" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="d0887670-0b24-6c16-6b15-0f9007b0466f">
+      <Execution id="169c846f-6f7d-4636-b47a-12b2e05a625f" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateQueue" />
+    </UnitTest>
+    <UnitTest name="DeleteTable" storage="c:\users\niaro\documents\visual studio 2010\projects\begin\testguestbook\bin\debug\testguestbook.dll" id="db6c36d5-e323-6b4b-ff88-782488b06650">
+      <Execution id="9bbc46d5-4192-45a1-af3d-56be56b2f695" />
+      <TestMethod codeBase="C:/Users/niaro/documents/visual studio 2010/Projects/Begin/TestGuestBook/bin/Debug/TestGuestBook.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGuestBook.Storage, TestGuestBook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteTable" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0a990214-4c32-c590-120c-3983084b746a" executionId="fc079e7b-439e-4204-9b27-292b7d60abfe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90cff3a7-c376-8901-53c4-3f5300488f56" executionId="39e083ad-a091-4dcf-82d1-ee5dfb5f847d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29606469-6650-eed0-1b2e-7bd5974d646d" executionId="1aa88fc1-7b5c-486f-ba45-f713cd425a04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="21ef95f6-5cba-3fe4-8df8-8981def7d812" executionId="cf7ab3d2-8017-4a50-8e29-415d372cd0de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0887670-0b24-6c16-6b15-0f9007b0466f" executionId="169c846f-6f7d-4636-b47a-12b2e05a625f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="873cfd3d-4d20-5ade-17b0-8b4a8e18b400" executionId="be99091d-fd0c-450d-989b-7afeb22cd8ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc06af3c-625d-48eb-ea80-1f8f3c32a40b" executionId="b0404085-f734-41cc-a1dd-a7b137770ad0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db6c36d5-e323-6b4b-ff88-782488b06650" executionId="9bbc46d5-4192-45a1-af3d-56be56b2f695" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68178ba7-0b27-2d8e-4b42-334a8d38aafa" executionId="70545a5c-bc35-4ea3-a9b5-363394dfc7bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="942b0041-6614-c198-67a7-6ac06411c6bb" executionId="52e2d525-a59b-41b4-8f5b-a1cded3e6f9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fc079e7b-439e-4204-9b27-292b7d60abfe" testId="0a990214-4c32-c590-120c-3983084b746a" testName="FabricIsOn" computerName="NIPUN-DEV" duration="00:00:00.0117608" startTime="2014-08-06T18:36:13.9839190+05:30" endTime="2014-08-06T18:36:14.4403226+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc079e7b-439e-4204-9b27-292b7d60abfe">
+    </UnitTestResult>
+    <UnitTestResult executionId="39e083ad-a091-4dcf-82d1-ee5dfb5f847d" testId="90cff3a7-c376-8901-53c4-3f5300488f56" testName="StartDevFabric" computerName="NIPUN-DEV" duration="00:00:00.4866097" startTime="2014-08-06T18:36:14.4461693+05:30" endTime="2014-08-06T18:36:14.9349394+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39e083ad-a091-4dcf-82d1-ee5dfb5f847d">
+    </UnitTestResult>
+    <UnitTestResult executionId="1aa88fc1-7b5c-486f-ba45-f713cd425a04" testId="29606469-6650-eed0-1b2e-7bd5974d646d" testName="StopDevFabric" computerName="NIPUN-DEV" duration="00:00:05.9304023" startTime="2014-08-06T18:36:14.9385741+05:30" endTime="2014-08-06T18:36:20.8718319+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1aa88fc1-7b5c-486f-ba45-f713cd425a04">
+    </UnitTestResult>
+    <UnitTestResult executionId="cf7ab3d2-8017-4a50-8e29-415d372cd0de" testId="21ef95f6-5cba-3fe4-8df8-8981def7d812" testName="ValidateBlobStorageInit" computerName="NIPUN-DEV" duration="00:00:02.1852662" startTime="2014-08-06T18:36:20.8768355+05:30" endTime="2014-08-06T18:36:23.0651369+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf7ab3d2-8017-4a50-8e29-415d372cd0de">
+    </UnitTestResult>
+    <UnitTestResult executionId="169c846f-6f7d-4636-b47a-12b2e05a625f" testId="d0887670-0b24-6c16-6b15-0f9007b0466f" testName="ValidateQueue" computerName="NIPUN-DEV" duration="00:00:00.1050711" startTime="2014-08-06T18:36:23.0699184+05:30" endTime="2014-08-06T18:36:23.1778852+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="169c846f-6f7d-4636-b47a-12b2e05a625f">
+    </UnitTestResult>
+    <UnitTestResult executionId="be99091d-fd0c-450d-989b-7afeb22cd8ff" testId="873cfd3d-4d20-5ade-17b0-8b4a8e18b400" testName="ValidateUploadBlob" computerName="NIPUN-DEV" duration="00:00:00.5147483" startTime="2014-08-06T18:36:23.1818878+05:30" endTime="2014-08-06T18:36:23.6994130+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be99091d-fd0c-450d-989b-7afeb22cd8ff">
+    </UnitTestResult>
+    <UnitTestResult executionId="b0404085-f734-41cc-a1dd-a7b137770ad0" testId="bc06af3c-625d-48eb-ea80-1f8f3c32a40b" testName="ValidateTables" computerName="NIPUN-DEV" duration="00:00:00.5327603" startTime="2014-08-06T18:36:23.7044148+05:30" endTime="2014-08-06T18:36:24.2393811+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0404085-f734-41cc-a1dd-a7b137770ad0">
+    </UnitTestResult>
+    <UnitTestResult executionId="9bbc46d5-4192-45a1-af3d-56be56b2f695" testId="db6c36d5-e323-6b4b-ff88-782488b06650" testName="DeleteTable" computerName="NIPUN-DEV" duration="00:00:00.1587531" startTime="2014-08-06T18:36:24.2443835+05:30" endTime="2014-08-06T18:36:24.4053000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bbc46d5-4192-45a1-af3d-56be56b2f695">
+    </UnitTestResult>
+    <UnitTestResult executionId="70545a5c-bc35-4ea3-a9b5-363394dfc7bc" testId="68178ba7-0b27-2d8e-4b42-334a8d38aafa" testName="ValidateQueue2" computerName="NIPUN-DEV" duration="00:00:00.4255912" startTime="2014-08-06T18:36:24.4094856+05:30" endTime="2014-08-06T18:36:24.8386310+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="70545a5c-bc35-4ea3-a9b5-363394dfc7bc">
+    </UnitTestResult>
+    <UnitTestResult executionId="52e2d525-a59b-41b4-8f5b-a1cded3e6f9a" testId="942b0041-6614-c198-67a7-6ac06411c6bb" testName="ProcessQueue" computerName="NIPUN-DEV" duration="00:00:00.5744410" startTime="2014-08-06T18:36:24.8431338+05:30" endTime="2014-08-06T18:36:25.4208436+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52e2d525-a59b-41b4-8f5b-a1cded3e6f9a">
+      <Output>
+        <DebugTrace>QTAgent32.exe Information: 0 : Creating container and queue...
+QTAgent32.exe Information: 0 : Processing image in blob 'image.jpg'.
+QTAgent32.exe Information: 0 : Generated thumbnail in blob 'http://127.0.0.1:10000/devstoreaccount1/guestbookpics/image_thumb.jpg'.
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

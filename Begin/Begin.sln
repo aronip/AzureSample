@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "GuestBook", "GuestBook\GuestBook.ccproj", "{8811601F-A620-4C0C-B1D0-EAFBFAF74F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBook_WebRole", "GuestBook_WebRole\GuestBook_WebRole.csproj", "{C4A87620-BDFC-4B5D-B19F-A87A3684343F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBook_Data", "GuestBook_Data\GuestBook_Data.csproj", "{D03BCFCE-D53D-441E-A7A6-D30F4E8200FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBook_WorkerRole", "GuestBook_WorkerRole\GuestBook_WorkerRole.csproj", "{CAB8CB23-6701-46B6-88FA-06D28F2819AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1E42F472-B527-4296-88E1-6D9DF89828EC}"
+	ProjectSection(SolutionItems) = preProject
+		Begin.vsmdi = Begin.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGuestBook", "TestGuestBook\TestGuestBook.csproj", "{D6B7D671-3AD7-459A-8362-5D088B52BB76}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Begin.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8811601F-A620-4C0C-B1D0-EAFBFAF74F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8811601F-A620-4C0C-B1D0-EAFBFAF74F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8811601F-A620-4C0C-B1D0-EAFBFAF74F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8811601F-A620-4C0C-B1D0-EAFBFAF74F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A87620-BDFC-4B5D-B19F-A87A3684343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A87620-BDFC-4B5D-B19F-A87A3684343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A87620-BDFC-4B5D-B19F-A87A3684343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A87620-BDFC-4B5D-B19F-A87A3684343F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03BCFCE-D53D-441E-A7A6-D30F4E8200FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03BCFCE-D53D-441E-A7A6-D30F4E8200FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03BCFCE-D53D-441E-A7A6-D30F4E8200FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03BCFCE-D53D-441E-A7A6-D30F4E8200FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB8CB23-6701-46B6-88FA-06D28F2819AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB8CB23-6701-46B6-88FA-06D28F2819AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB8CB23-6701-46B6-88FA-06D28F2819AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB8CB23-6701-46B6-88FA-06D28F2819AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B7D671-3AD7-459A-8362-5D088B52BB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B7D671-3AD7-459A-8362-5D088B52BB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B7D671-3AD7-459A-8362-5D088B52BB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B7D671-3AD7-459A-8362-5D088B52BB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

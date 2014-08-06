@@ -1,0 +1,6 @@
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\bin\Release\GuestBook_Data.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\bin\Release\GuestBook_Data.pdb
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\obj\Release\GuestBook_Data.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Data\obj\Release\GuestBook_Data.pdb

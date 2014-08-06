@@ -1,0 +1,9 @@
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\bin\Debug\TestGuestBook.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\bin\Debug\TestGuestBook.pdb
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\bin\Debug\GuestBook_Data.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\bin\Debug\GuestBook_Data.pdb
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\obj\Debug\TestGuestBook.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\TestGuestBook\obj\Debug\TestGuestBook.pdb
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\TestGuestBook\obj\Debug\TestGuestBook.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\GuestBook_WebRole.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\GuestBook_WebRole.pdb
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\GuestBook_Data.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\System.Web.Providers.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.StorageUtility.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\GuestBook_Data.pdb
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\obj\Release\GuestBook_WebRole.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_WebRole\obj\Release\GuestBook_WebRole.pdb

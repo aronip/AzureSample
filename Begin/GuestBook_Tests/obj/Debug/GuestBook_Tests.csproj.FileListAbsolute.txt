@@ -1,0 +1,4 @@
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Tests\bin\Debug\GuestBook_Tests.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Tests\bin\Debug\GuestBook_Tests.pdb
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Tests\obj\Debug\GuestBook_Tests.dll
+C:\Users\niaro\Documents\Visual Studio 2010\Projects\Begin\GuestBook_Tests\obj\Debug\GuestBook_Tests.pdb

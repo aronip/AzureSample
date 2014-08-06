@@ -1,0 +1,6 @@
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\GuestBook_Data\bin\Debug\GuestBook_Data.dll
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\GuestBook_Data\bin\Debug\GuestBook_Data.pdb
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\GuestBook_Data\obj\Debug\GuestBook_Data.dll
+C:\Users\niaro\documents\visual studio 2010\Projects\Begin\GuestBook_Data\obj\Debug\GuestBook_Data.pdb
